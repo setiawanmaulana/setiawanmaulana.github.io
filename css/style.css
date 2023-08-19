@@ -70,6 +70,8 @@ section {
 }
 .navbar a.active {
   color: var(--main-color);
+  text-decoration: underline;
+  text-underline-offset: 0.5em;
 }
 
 .bx-menu {
